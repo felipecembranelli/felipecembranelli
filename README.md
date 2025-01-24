@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecembranelli&langs_count=8)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecembranelli&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecembranelli&layout=donut-vertical)](https://github.com/felipecembranelli/github-readme-stats)
 
 <!--
