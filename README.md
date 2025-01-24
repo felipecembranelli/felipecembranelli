@@ -1,8 +1,6 @@
-## Hi there 👋
+## My Stats 👋
 
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecembranelli)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecembranelli&langs_count=8)
 
