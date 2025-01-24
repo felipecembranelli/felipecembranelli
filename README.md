@@ -1,12 +1,9 @@
 ## My Stats 👋
 
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecembranelli&theme=radical)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecembranelli&langs_count=8&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecembranelli&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecembranelli&layout=donut-vertical)](https://github.com/felipecembranelli/github-readme-stats)
 
 <!--
 **felipecembranelli/felipecembranelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
