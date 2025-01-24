@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecembranelli&langs_count=8)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecembranelli&layout=donut-vertical)](https://github.com/felipecembranelli/github-readme-stats)
+
 <!--
 **felipecembranelli/felipecembranelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
