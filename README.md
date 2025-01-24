@@ -1,8 +1,8 @@
 ## My Stats 👋
 
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecembranelli)](https://github.com/anuraghazra/github-readme-stats)
+[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecembranelli&theme=radical)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecembranelli&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecembranelli&langs_count=8&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecembranelli&show_icons=true&theme=radical)
 
