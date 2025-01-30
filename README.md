@@ -1,3 +1,7 @@
+## About Me
+
+I'm a software engineering leader who loves wearing many hats—from engineering management and solution architecture to project management and technical sales, even getting my hands dirty with some coding. I’ve built scalable, distributed systems that align perfectly with business goals. Big fan of Agile and Lean, I’m all about modern software architectures, product development, and DevOps. I’m passionate about mentoring and building high-performing teams, fostering a culture that balances technical excellence with continuous improvement. Known for blending business needs with technical solutions, I make sure things get done across teams and platforms.
+
 ## My Stats 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecembranelli&langs_count=8&theme=radical)
